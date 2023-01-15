@@ -1,0 +1,23 @@
+#wealth{
+
+    float: right;
+}
+
+#v1{
+    border-right: 3px solid black;height: 500px;height: auto;
+    margin-top: 17px;
+}
+
+#listpersons{
+    display: inline-block;
+    
+}
+#listmoney{
+    display: inline-block;
+    float: right;
+    
+}
+body{
+    background-color: gainsboro;
+    
+}
